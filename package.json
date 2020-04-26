@@ -1,0 +1,25 @@
+{
+  "name": "virtual-keyboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "linting": "eslint script.js",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliaksandrtseliuk/virtual-keyboard.git"
+  },
+  "author": "ALI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliaksandrtseliuk/virtual-keyboard/issues"
+  },
+  "homepage": "https://github.com/aliaksandrtseliuk/virtual-keyboard#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "serve": "^11.3.0",
+    "serve-handler": "^6.1.2"
+  }
+}
